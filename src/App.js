@@ -21,7 +21,7 @@ class App extends React.Component {
       ],
       home: {
         title: "Creativity is just connecting things",
-        subtitle: "Passion, Patience, Persistance",
+        subtitle: "With Passion, Patience and Persistance",
         text: "Check my projects below:",
       },
       about: {
